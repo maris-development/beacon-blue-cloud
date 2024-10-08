@@ -1,0 +1,3 @@
+[submodule "notebook-examples/EMODnet-Chemistry"]
+	path = notebook-examples/EMODnet-Chemistry
+	url = https://github.com/maris-development/EMODnet-Chemistry-Beacon.git

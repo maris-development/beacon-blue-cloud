@@ -1,2 +1,2 @@
-notebook-examples/DataOutput/*
-notebook-examples/Footprint/*
+**/DataOutput/**
+**/Footprint/**

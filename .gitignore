@@ -4,3 +4,5 @@
 **/beacon_output/**
 **/__pycache__/
 **/data/
+**/myenv/
+**/output/

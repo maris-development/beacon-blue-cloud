@@ -1,1 +1,0 @@
-# Blue Cloud - Notebook Examples for Beacon running version 1.2.0 (latest)

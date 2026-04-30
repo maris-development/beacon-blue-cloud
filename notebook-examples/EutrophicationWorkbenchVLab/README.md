@@ -91,10 +91,10 @@ CW results are written to:
 ### Output
 
 ODV‑compatible files are written to a CCP execution directory, for example:
-
+```
 /Workspace/CCP/executions/FileForge_v._0.1.9/.../outputs/output/
 └── wb2_merged.txt
-
+```
 
 ---
 
@@ -112,7 +112,7 @@ ODV‑compatible files are written to a CCP execution directory, for example:
 ---
 
 ## Eutrophication workbench Vlab Folder Structure and Roles
-
+```
 /Eutrophication-Workbench/
 ├── 0_Documentation/ # User guides and technical documentation
 ├── 1_BEACON/ # BEACON notebooks and outputs (JupyterLab)
@@ -121,7 +121,7 @@ ODV‑compatible files are written to a CCP execution directory, for example:
 ├── 4_webODV/ # webODV collections
 ├── 0_Start_Here_RUNME.ipynb # Initial setup notebook
 └── README.md
-
+```
 
 | Folder | Role | Environment |
 |------|-----|-------------|

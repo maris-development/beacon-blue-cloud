@@ -1,0 +1,42 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Biogeochemistry",
+    "codeRepository": "http://github/YourCode",
+    "contributor": {
+        "id": "https://www.orcid.org/0000-0002-3906-471X",
+        "type": "Person",
+        "affiliation": {
+            "type": "Organization",
+            "name": "OGS"
+        },
+        "email": "nreyessuarez@ogs.it",
+        "familyName": "Reyes",
+        "givenName": "  Suarez Nydia Catalina"
+    },
+    "dateCreated": "2026-04-24",
+    "dateModified": "2026-04-24",
+    "datePublished": "2026-04-24",
+    "description": "This Jupyter Notebook demonstrates how to query EMODnet Chemistry data using the BEACON monolithic instance. The notebook provides a practical example of accessing and retrieving chemical marine observations through the BEACON API, supporting multiple output formats. It is intended for users working within the Blue‑Cloud Virtual Lab environment who want to explore and extract EMODnet Chemistry data. The notebook name follows a standardized naming convention that encodes key information about the Virtual Lab, the BEACON instance and version, and the output format, ensuring clarity, reusability, and machine readability within data catalogues. Notebook naming convention: __.ipynb where: indicates the Blue‑Cloud Virtual Lab (e.g. EWB) specifies the target BEACON deployment describes the type of output produced by the notebook Example: EWB_BEACON=Monolith_EMODnet-Chemistry_OUT=multi.ipynb",
+    "downloadUrl": "https://data.d4science.org/shub/E_bmk1SjFueDdBM0xacWd1WVdZY2lMc2xLNE8vTWorVWhiSHBvOENSTjdvamo1bE9QalNqTW9qNUEvbmZmZ1Yxag==",
+    "funder": {
+        "type": "Organization",
+        "name": "Blue-Cloud"
+    },
+    "keywords": [
+        "Marine chemistry",
+        "Eutrophication",
+        "EMODNet chemistry",
+        "Data Lake",
+        "Blue-Cloud",
+        "BEACON"
+    ],
+    "license": "https://spdx.org/licenses/CC-BY-4.0",
+    "name": "Jupyter Notebook - Querying EMODnet Chemistry Data via BEACON Monolithic Instance",
+    "operatingSystem": "Windows",
+    "programmingLanguage": "Python",
+    "runtimePlatform": "Anaconda??",
+    "version": "1.0.0",
+    "developmentStatus": "active",
+    "funding": "Blue-Cloud fund"
+}

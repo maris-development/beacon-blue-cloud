@@ -20,9 +20,9 @@ Each step runs in a **dedicated execution environment**.
 **Purpose:** Create the complete folder structure and configuration files for the workflow.
 
 1. Open **JupyterLab** in the EWB VLab.
-2. Navigate to your home workspace: `/home/jovyan/workspace`
-3. Create a **copy** of: `00_Start_Here_RUNME.ipynb`
-4. Open and run the notebook in your copied workspace.
+2. Navigate to your home workspace: `/home/jovyan/workspace/VREFolders/Eutrophication-Workbench/user_workflow/`
+3. Create a **copy** of the folder: `../user_workflow/0_Start_Here_RUNME.ipynb` in your `/home/jovyan/workspace/`
+4. Open and run the notebook in your copied folder.
 5. When prompted, enter:
    - Your initials (user identifier)
    - Start year and month (YYYYMM format)

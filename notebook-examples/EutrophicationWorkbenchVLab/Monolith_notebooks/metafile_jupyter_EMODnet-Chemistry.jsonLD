@@ -35,8 +35,8 @@
     "name": "Jupyter Notebook - Querying EMODnet Chemistry Data via BEACON Monolithic Instance",
     "operatingSystem": "Windows",
     "programmingLanguage": "Python",
-    "runtimePlatform": "Anaconda??",
+    "runtimePlatform": "JupyterLab in D4Science",
     "version": "1.0.0",
     "developmentStatus": "active",
-    "funding": "Blue-Cloud fund"
+    "funding": "https://doi.org/10.3030/101094227"
 }
